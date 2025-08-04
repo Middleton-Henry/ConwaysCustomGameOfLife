@@ -2,6 +2,7 @@
 This is a customizable version of Conway's Game of Life by Middleton Henry based on the original version by John Conway. This simulation/game is meant to create a cellular automaton system that can grow and morph into unique and unpredictable patterns based on a simple set of rules listed below.
 
 This project is available for download on [itch.io](https://middleton-henry.itch.io/conways-custom-game-of-life)
+
 Currently the online build does not support copying and pasting save states
 
 # Key Binds: 
@@ -44,7 +45,9 @@ This version gives us 3 possible state evaluations – alive, same, and dead –
 
 Distribute values - Distributes random assortment of values based on percentage 
 
-Render image - saves images of game state based on input generation range below (the current version only creates png's, so if you want a gif version then I recommend using [ezgif.com](https://ezgif.com/maker) which allows up to 2000 files)
+Render image - saves images of game state based on input generation range below 
+
+(the current version only creates png's, so if you want a gif version then I recommend using [ezgif.com](https://ezgif.com/maker) which allows up to 2000 files)
 
 Custom Palette Swap - Insert custom RGB values or hit button for random colors
 
